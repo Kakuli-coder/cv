@@ -1,0 +1,15 @@
+body {background-color: #9efaee;
+}
+
+hr {border-color: rgb(180, 171, 179); 
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+width: 10%;
+}
+
+h1 {color: plum;
+}
+
+h3 {color :palevioletred ;
+}
